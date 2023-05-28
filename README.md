@@ -1,2 +1,32 @@
-# E-commerce-Sentiment-Analysis
- Perform sentiment analysis on an e-commerce dataset of 34k Amazon brand product reviews to predict purchase satisfaction using features and review text.
+# E-commerce Sentiment Analysis
+
+## Description
+In this project, I aim to perform sentiment analysis using a dataset from an e-commerce domain. The dataset consists of over 34,000 consumer reviews for Amazon brand products. It includes attributes such as brand, categories, primary categories, reviews.title, reviews.text, and sentiment labels (Positive, Negative, Neutral). My goal is to predict the sentiment or satisfaction of a purchase based on various features and review text.
+
+## Dataset
+The dataset provides a valuable resource for understanding sentiment and satisfaction levels in e-commerce. It contains a wide range of consumer reviews, covering different products and categories. The reviews are accompanied by relevant attributes and sentiment labels, enabling the development of sentiment analysis models.
+
+## Project Tasks
+### Week 1
+In the first week, I focused on tackling the class imbalance problem in the dataset and gaining insights through exploratory data analysis. The tasks included:
+- Conducting an exploratory data analysis (EDA) to understand the characteristics of positive, negative, and neutral reviews.
+- Checking the class count for each sentiment class to identify any class imbalance issues.
+- Converting the reviews into TF-IDF scores, a technique to represent textual data numerically.
+- Training a multinomial Naive Bayes classifier and observing the impact of class imbalance on the classification results.
+- Tackling the class imbalance problem through oversampling or undersampling techniques.
+- Evaluating the models using precision, recall, F1-score, and AUC-ROC curve, with a focus on the F1-Score as the evaluation criteria.
+
+### Week 2
+In the second week, I delved into model selection and advanced techniques to improve sentiment classification. The tasks included:
+- Applying multi-class Support Vector Machines (SVM) and neural networks for sentiment classification.
+- Exploring ensemble techniques such as combining XGBoost with oversampled multinomial Naive Bayes.
+- Engineering a feature called sentiment score and incorporating it into the models to evaluate its impact on performance and gain insights.
+- Applying Long Short-Term Memory (LSTM) neural networks, a type of recurrent neural network, to capture sequential information in the reviews.
+- Comparing the accuracy of neural networks with traditional machine learning algorithms.
+- Determining the best settings for LSTM and experimenting with Gated Recurrent Units (GRU) to classify reviews as positive, negative, or neutral using techniques like Grid Search, Cross-Validation, and Random Search.
+
+Moreover, I explored topic modeling techniques to gain insights into different aspects of the products and analyze clusters of similar reviews. Techniques like Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) were used for topic modeling.
+
+## Screenshots
+Screenshots of relevant plots, classification results, topic clusters, and any other visual representations have been added to the README document to illustrate the analysis and findings.
+
