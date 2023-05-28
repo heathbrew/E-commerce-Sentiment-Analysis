@@ -29,18 +29,17 @@ Moreover, I explored topic modeling techniques to gain insights into different a
 
 ## Screenshots
 Screenshots of relevant plots, classification results, topic clusters, and any other visual representations have been added to the README document to illustrate the analysis and findings.
+### Dataset
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/98033ca3-0199-4c96-bfba-9830bfd60ceb)
-
+### Multinomial Naive Bayes
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/9d99ee71-41e6-46b1-91f4-c163b642bc6f)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/901b6248-afff-4739-be92-100f7bdf26ed)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/d3c79f08-ed1c-49ea-931c-3acda617fe24)
-
-
+### Random Forest
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/68083f7e-2970-40e9-84ce-fa926fb009db)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/4e4ec6fe-9ea7-4a5b-a220-51ccf08ed392)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/90893775-13b3-4435-8e0e-0868923de887)
-
-
+### XGBoost
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/ef27ff80-390a-45b9-be98-1039625dd33d)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/ae652abf-98ec-43e7-a6cf-a3c96f273cd5)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/6fc7d5bc-e35c-441f-9947-c3242ecaf318)
