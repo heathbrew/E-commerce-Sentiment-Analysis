@@ -27,20 +27,33 @@ In the second week, I delved into model selection and advanced techniques to imp
 
 Moreover, I explored topic modeling techniques to gain insights into different aspects of the products and analyze clusters of similar reviews. Techniques like Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) were used for topic modeling.
 
-## Screenshots
+# Screenshots
 Screenshots of relevant plots, classification results, topic clusters, and any other visual representations have been added to the README document to illustrate the analysis and findings.
-### Dataset
+## Dataset
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/98033ca3-0199-4c96-bfba-9830bfd60ceb)
-### Multinomial Naive Bayes
+## Class Imbalance Problem - EDA
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/cae16577-83e0-4192-9f41-1e0d627c29f4)
+## Topic Modeling with LDA
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/edc581a1-7d94-47d4-b9d4-d51081fb8c75)
+## Topic Modeling with NMF
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/30c876db-08a7-4ddf-a259-231775fee7c9)
+## Multinomial Naive Bayes
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/9d99ee71-41e6-46b1-91f4-c163b642bc6f)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/901b6248-afff-4739-be92-100f7bdf26ed)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/d3c79f08-ed1c-49ea-931c-3acda617fe24)
-### Random Forest
+## Random Forest
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/68083f7e-2970-40e9-84ce-fa926fb009db)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/4e4ec6fe-9ea7-4a5b-a220-51ccf08ed392)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/90893775-13b3-4435-8e0e-0868923de887)
-### XGBoost
+## XGBoost
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/ef27ff80-390a-45b9-be98-1039625dd33d)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/ae652abf-98ec-43e7-a6cf-a3c96f273cd5)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/6fc7d5bc-e35c-441f-9947-c3242ecaf318)
+## Neural Network model
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/cc87db2a-9011-4de5-82f4-77396b75c4ff)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/9cf69f6c-2c79-48b5-a4ea-3667990d892f)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/38ac9a72-1284-4c19-8893-d61100f10563)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/8e10f677-f1fc-49c2-b4bb-539f8edeb1c7)
+
+
 
