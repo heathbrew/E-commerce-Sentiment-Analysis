@@ -54,6 +54,12 @@ Screenshots of relevant plots, classification results, topic clusters, and any o
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/9cf69f6c-2c79-48b5-a4ea-3667990d892f)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/38ac9a72-1284-4c19-8893-d61100f10563)
 ![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/8e10f677-f1fc-49c2-b4bb-539f8edeb1c7)
+# Visualization
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/1289b5be-2399-4f42-9ce9-efa864804a5d)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/eb02e1d7-ae9d-4ef4-998a-439fc159566c)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/e8ecaa41-4092-4767-ac39-f9629cc6de74)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/0311a8f0-29b8-4963-872f-ada4fc402f6c)
+![image](https://github.com/heathbrew/E-commerce-Sentiment-Analysis/assets/55629425/20db2efb-35f4-419b-80ca-5a6c5bb2f7f2)
 
 
 
